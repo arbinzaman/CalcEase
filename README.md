@@ -12,3 +12,4 @@ Follow the prompts to enter the first and second numbers (0-9).
 4: Division
 The program will display the result of the chosen operation.
 # Example
+![Screenshot 2024-05-22 012106](https://github.com/arbinzaman/CalcEase/assets/108592062/fdfd7c7e-fef9-4c98-bc71-ccd35b166181)
