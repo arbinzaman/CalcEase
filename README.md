@@ -13,3 +13,9 @@ Follow the prompts to enter the first and second numbers (0-9).
 The program will display the result of the chosen operation.
 # Example
 ![Screenshot 2024-05-22 012106](https://github.com/arbinzaman/CalcEase/assets/108592062/fdfd7c7e-fef9-4c98-bc71-ccd35b166181)
+
+# Presentation 
+(https://www.canva.com/design/DAGFj9IfG2o/aeFL05_BDMyzoDGih2cCvg/edit?utm_content=DAGFj9IfG2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Report 
+(https://www.canva.com/design/DAGF4hIcY4Q/Xqz0D29DD7xucNkpbYQFIA/edit?utm_content=DAGF4hIcY4Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
